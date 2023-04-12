@@ -17,7 +17,7 @@ $ npm i -S node-payu
 const payu = require('node-payu');
 ```
 
-### function available
+### functions
 
 
 ### examples
