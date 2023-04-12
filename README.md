@@ -1,4 +1,4 @@
-# Payu Node :money_with_wings: (https://payu.in/static/ec65358c7b524312fdb892cb6ed8839e.webp)
+# Payu Node :money_with_wings:
 
 >  Fast & lightweight library for PayU and PayU Money for accepting payments, payment links, verify payments and refund.
 
